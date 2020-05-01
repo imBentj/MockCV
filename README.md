@@ -1,2 +1,2 @@
 # MockCV
-A Mock CV 
+A Mock CV preview
